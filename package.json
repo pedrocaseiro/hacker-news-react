@@ -6,12 +6,16 @@
     "axios": "^0.18.0",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
+    "react-infinite-scroll-component": "^4.2.0",
     "react-redux": "^5.1.0",
     "react-scripts": "2.1.1",
     "redux": "^4.0.1",
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0",
+    "reselect": "^4.0.0",
     "styled-components": "3.4.9",
+    "timeago.js": "^4.0.0-beta.1",
+    "url": "^0.11.0",
     "yarn": "^1.12.1"
   },
   "scripts": {
